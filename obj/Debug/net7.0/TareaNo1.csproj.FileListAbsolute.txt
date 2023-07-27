@@ -1,0 +1,15 @@
+C:\Users\vince\OneDrive\Documentos\Octavo °0°\VISUALLL\TareaNo1\bin\Debug\net7.0\TareaNo1.exe
+C:\Users\vince\OneDrive\Documentos\Octavo °0°\VISUALLL\TareaNo1\bin\Debug\net7.0\TareaNo1.deps.json
+C:\Users\vince\OneDrive\Documentos\Octavo °0°\VISUALLL\TareaNo1\bin\Debug\net7.0\TareaNo1.runtimeconfig.json
+C:\Users\vince\OneDrive\Documentos\Octavo °0°\VISUALLL\TareaNo1\bin\Debug\net7.0\TareaNo1.dll
+C:\Users\vince\OneDrive\Documentos\Octavo °0°\VISUALLL\TareaNo1\bin\Debug\net7.0\TareaNo1.pdb
+C:\Users\vince\OneDrive\Documentos\Octavo °0°\VISUALLL\TareaNo1\obj\Debug\net7.0\TareaNo1.csproj.AssemblyReference.cache
+C:\Users\vince\OneDrive\Documentos\Octavo °0°\VISUALLL\TareaNo1\obj\Debug\net7.0\TareaNo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\OneDrive\Documentos\Octavo °0°\VISUALLL\TareaNo1\obj\Debug\net7.0\TareaNo1.AssemblyInfoInputs.cache
+C:\Users\vince\OneDrive\Documentos\Octavo °0°\VISUALLL\TareaNo1\obj\Debug\net7.0\TareaNo1.AssemblyInfo.cs
+C:\Users\vince\OneDrive\Documentos\Octavo °0°\VISUALLL\TareaNo1\obj\Debug\net7.0\TareaNo1.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\Documentos\Octavo °0°\VISUALLL\TareaNo1\obj\Debug\net7.0\TareaNo1.dll
+C:\Users\vince\OneDrive\Documentos\Octavo °0°\VISUALLL\TareaNo1\obj\Debug\net7.0\refint\TareaNo1.dll
+C:\Users\vince\OneDrive\Documentos\Octavo °0°\VISUALLL\TareaNo1\obj\Debug\net7.0\TareaNo1.pdb
+C:\Users\vince\OneDrive\Documentos\Octavo °0°\VISUALLL\TareaNo1\obj\Debug\net7.0\TareaNo1.genruntimeconfig.cache
+C:\Users\vince\OneDrive\Documentos\Octavo °0°\VISUALLL\TareaNo1\obj\Debug\net7.0\ref\TareaNo1.dll
